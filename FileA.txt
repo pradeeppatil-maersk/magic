@@ -1,0 +1,6 @@
+this is file A.
+A change
+This is a new versiob
+Version 3
+Version 4
+Version 5
